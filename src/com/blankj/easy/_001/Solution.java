@@ -23,6 +23,9 @@ public class Solution {
 //        return null;
 //    }
 
+    /**
+     *
+     */
     public int[] twoSum(int[] nums, int target) {
         int len = nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
